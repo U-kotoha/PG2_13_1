@@ -1,0 +1,13 @@
+#pragma once
+
+//ç\ë¢ëÃ
+class Object
+{
+public:
+	int posX;
+	int posY;
+	int radius;
+	int speed;
+	bool isAlive;
+	int color;
+};
